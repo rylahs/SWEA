@@ -1,13 +1,13 @@
 # SWEA
 SWEA(SW Expeer Academy)의 PS 시도 공간.
 
-Last Update Date :     
+Last Update Date : 2022.01.31   
 
 # 현재 학습 진행도  
 한눈에 보기    
-![100%](https://progress-bar.dev/15/?scale=738&title=progress&width=500&color=babaca&suffix=/738)   
+![100%](https://progress-bar.dev/34/?scale=738&title=progress&width=500&color=babaca&suffix=/738)   
 0x00. D1(Difficulty 1)    
-![100%](https://progress-bar.dev/0/?scale=19&title=progress&width=500&color=babaca&suffix=/19)    
+![100%](https://progress-bar.dev/19/?scale=19&title=progress&width=500&color=babaca&suffix=/19)    
 0x01. D2(Difficulty 2)    
 ![100%](https://progress-bar.dev/1/?scale=36&title=progress&width=500&color=babaca&suffix=/36)    
 0x02. D3(Difficulty 3)      
