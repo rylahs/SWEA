@@ -1,7 +1,7 @@
 // 0x01. Difficulty Level 1
 // Written by : Rylah
 // Date : 2022.01.31
-// 2043. 서랍의 비밀번호
+// 2043. 서랍의 비밀번호 
 // https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QJ_8KAx8DFAUq
 
 #include <bits/stdc++.h>
