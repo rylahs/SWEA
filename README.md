@@ -11,7 +11,7 @@ Last Update Date : 2022.01.31
 0x01. D2(Difficulty 2)    
 ![100%](https://progress-bar.dev/1/?scale=36&title=progress&width=500&color=babaca&suffix=/36)    
 0x02. D3(Difficulty 3)      
-![100%](https://progress-bar.dev/9/?scale=147&title=progress&width=500&color=babaca&suffix=/147)  
+![100%](https://progress-bar.dev/11/?scale=147&title=progress&width=500&color=babaca&suffix=/147)  
 0x03. D4(Difficulty 4)    
 ![100%](https://progress-bar.dev/4/?scale=137&title=progress&width=500&color=babaca&suffix=/137)    
 0x04. D5(Difficulty 5)    
